@@ -1,5 +1,7 @@
 # Eksamensprojekt
 
+# Rune, Marco, Peter "the Pope", arkadiuz
+
 Our group has decided to go into combat with geographical plotting.
 We would like to try and map the entire worlds GDP on an Earth map. (Or current weather)
 The user should be able to rotate the map. To do so, we plan on using Choropleth maps since we have just recently discovered them and find them quite amazing and confusing.
